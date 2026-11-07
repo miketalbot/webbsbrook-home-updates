@@ -1,6 +1,6 @@
 {
-  "sequence": 8,
-  "version": "home-8-f9783a101d6790be",
+  "sequence": 9,
+  "version": "home-9-48abf3cb9822eefc",
   "runtime": "home-ios-2f8ada3e41b4d824dc93c0a9b1ac0be3c04a0f168c334200b50e7e159a896041",
   "files": [
     "app.js",
@@ -13,6 +13,8 @@
     "chat-ui.js",
     "gas-costs.css",
     "gas-costs.js",
+    "guest-overlays.css",
+    "guest-overlays.js",
     "health-panel.css",
     "health-panel.js",
     "heating-boost.js",
