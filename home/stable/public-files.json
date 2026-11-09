@@ -1,7 +1,7 @@
 {
-  "sequence": 17,
-  "version": "home-17-be78999dcad2cef1",
-  "runtime": "home-ios-f8f56269e608523a4a42a65faca6d0cde59fe0166033a273f64d8ebc52068395",
+  "sequence": 18,
+  "version": "home-18-cc5035c07913abc3",
+  "runtime": "home-ios-b35fc47cd03b3370742b7ef71171b8899413cba5d5a8cf1913712c3c23cdb387",
   "files": [
     "app.js",
     "apple-touch-icon.png",
@@ -11,6 +11,8 @@
     "chat-review.js",
     "chat-ui.css",
     "chat-ui.js",
+    "device-client.js",
+    "device-controls.js",
     "gas-costs.css",
     "gas-costs.js",
     "guest-overlays.css",
@@ -30,6 +32,8 @@
     "icon.svg",
     "index.html",
     "key-settings.css",
+    "lights.css",
+    "lights.js",
     "manifest.webmanifest",
     "native-app.css",
     "native-bootstrap.js",
